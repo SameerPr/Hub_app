@@ -1,1 +1,2 @@
-# Github_repo_checker
+# Hub_app 
+for searching github repositories
